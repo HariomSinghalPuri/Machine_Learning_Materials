@@ -1,0 +1,12 @@
+Visit :
+www.kaggle.com/datasets/hariomsinghalpuri/dataset-used-in-ml
+
+Dataset used in Module_2 :
+Placement_Dataset.csv (19.71 kB)
+breast_cancer_data.csv (125.2 kB)
+credit_data.csv (150.83 MB)
+diabetes.csv (23.87 kB)
+fake_news_dataset.csv (98.63 MB)
+iris_data.csv (5.11 kB)
+mail_data.csv (485.7 kB)
+sonar data.csv (87.78 kB)
