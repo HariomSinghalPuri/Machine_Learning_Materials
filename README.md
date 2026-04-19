@@ -83,18 +83,56 @@ ML_materials/
 │   ├── ML_Use_Case_1_Rock_vs_Mine_Prediction.ipynb
 │   ├── ML_Use_Case_2_Diabetes_Prediction.ipynb
 │   ├── ML_Use_Case_3_Spam_Mail_Prediction_using_Machine_Learning.ipynb
-│   ├── Dataset_Links.txt
+│   └── Dataset_Links.txt
 │
-├── Module_3_Mathematical_Foundations/        # 🚧 In Progress
-   ├── README.md
-   ├── 1_Linear_Algebra_Part_1.ipynb
-   ├── 2_Linear_Algebra_Part_2.ipynb
-   ├── 3_Calculus_Part_1.ipynb
-   ├── 4_Calculus_Part_2.ipynb
-   ├── 5_Calculus_Part_3.ipynb
-   ├── 6_Probability.ipynb
-   ├── 7_Statistics.ipynb
-.....Progresss.....
+├── Module_3_Mathematical_Foundations/    # ✅ Complete
+|   ├── 1_Linear_Algebra_Part_1.ipynb
+|   ├── 2_Linear_Algebra_Part_2.ipynb
+|   ├── 3_Calculus_Part_1.ipynb
+|   ├── 4_Calculus_Part_2.ipynb
+|   ├── 5_Calculus_Part_3.ipynb
+|   ├── 6_Probability.ipynb
+|   └── 7_Statistics.ipynb
+|
+|── Module_4_ML_Use_Cases/   # ✅ Complete
+|│  ├── 1_ML_Use_Case_4_Heart_Disease_Prediction.ipynb
+│   ├── 2_ML_Use_Case_5_House_Price_Prediction.ipynb
+│   ├── 3_ML_Use_Case_6_Loan_Status_Prediction.ipynb
+│   ├── BostonHousing.csv
+│   ├── heart_disease_data.csv
+│   └── loan_dataset.csv
+|
+├── Module_5_Building_Basic_ML_Models/  # ✅ Complete
+│   ├── 01_Building_Linear_Regression_from_scratch_in_Python.ipynb
+│   ├── 02_Implementing_Linear_Regression_from_scratch_in_Python.ipynb
+│   ├── 03_Lin_Reg_implementation.ipynb
+│   ├── 04_Building_Logistic_Regression_from_scratch_in_Python.ipynb
+│   ├── 05_Implementing_Logistic_Regression_from_scratch_in_Python.ipynb
+│   ├── 06_Logistic_Regression_Implementation.ipynb
+│   ├── 07_Building_Support_Vector_Machine_Classifier_from_Scratch_in_Python.ipynb
+│   ├── 08_Implementing_SVM_Classifier_from_Scratch_in_Python.ipynb
+│   ├── 09_Implementing_SVM_from_Scratch.ipynb
+│   ├── 10_Building_Lasso_Regression_from_Scratch_in_Python.ipynb
+│   ├── 11_Implementing_Lasso_Regression_from_Scratch.ipynb
+│   ├── diabetes.csv
+│   ├── Lin_Reg_Model.py
+│   └── salary_data.csv
+|
+├── Module_6_ML_Model_Optimization/  # ✅ Complete
+|│  ├──  0. datasets link part 4.txt
+│   ├──  1_Cross_Validation_Python_Implementation.ipynb
+│   ├──  2_GridSearchCV_and_RandomizedSearchCV.ipynb
+│   ├──  3_Model_Selection_in_ML_with_Python.ipynb
+│   ├──  4_Accuracy_score_and_Confusion_Matrix.ipynb
+│   ├──  5_Precision,_Recall,_F1_Score_Python_implementation.ipynb
+│   ├──  ML_Use_Case_10_Movie_Recommendation_System_using_Machine_Learning_with_Python.ipynb
+│   ├──  ML_Use_Case_11_Breast_Cancer_Classification_using_Machine_Learning.ipynb
+│   ├──  ML_Use_Case_7_Big_Mart_Sales_Prediction.ipynb
+│   ├──  ML_Use_Case_8_Customer_Segmentation_using_K_Means_Clustering.ipynb
+│   └──  ML_Use_Case_9_Calories_Burnt_Prediction.ipynb
+|
+├── Module_7_ML_Models_Deployment/  --> To be Soon
+
 ```
 
 
